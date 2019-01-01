@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="http://marija-barusic.from.hr/images/logo_azur2.png"></p>
 
 ## Baza podataka - Putnička agencija
 
