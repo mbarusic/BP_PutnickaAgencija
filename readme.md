@@ -3,4 +3,4 @@
 
 ## Baza podataka - Travel Agency
 
-[Model baze podataka](https://app.sqldbm.com/SQLServer/Share/6m64goPbesGZm1VJBSwCzEGFrngIE8md_DYjF4jNYw0).
+[Model baze podataka](https://app.sqldbm.com/SQLServer/Share/H_uWuYP4xrUmyfB-De6HTkGFrngIE8md_DYjF4jNYw0).
